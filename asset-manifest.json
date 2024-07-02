@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Catfact-App/static/css/main.c2dec861.css",
+    "main.js": "/Catfact-App/static/js/main.bbf89efe.js",
+    "index.html": "/Catfact-App/index.html",
+    "main.c2dec861.css.map": "/Catfact-App/static/css/main.c2dec861.css.map",
+    "main.bbf89efe.js.map": "/Catfact-App/static/js/main.bbf89efe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2dec861.css",
+    "static/js/main.bbf89efe.js"
+  ]
+}
